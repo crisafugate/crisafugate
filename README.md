@@ -7,7 +7,7 @@ Currently working at Centene Technologies (Centene Corp)
 [Blog at Sigle](https://app.sigle.io/cafugate.id.blockstack)  
 [Github](https://github.com/crisafugate)  
 
-Besides Python I have experience with Jython, Lisp, Tcl, Expect.  
+Besides Python I have experience with Jython, SQL, Web-Services, UNIX, Expect.  
 Interested in learning smart contract languages like Vyper and Clarity.  
 <!--
 **crisafugate/crisafugate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
