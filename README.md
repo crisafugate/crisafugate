@@ -3,6 +3,7 @@
 Currently working at Centene Technologies (Centene Corp)
 
 [Stackoverflow](https://stackoverflow.com/users/6496590/cris-fugate)  
+[LinkedIn](https://www.linkedin.com/in/crisafugate)
 [Springrole](https://springrole.com/crisafugate)  
 [Blog at Sigle](https://app.sigle.io/cafugate.id.blockstack)  
 [Github](https://github.com/crisafugate)  
