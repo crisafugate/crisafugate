@@ -1,10 +1,9 @@
 ### Cris A. Fugate (Python Developer 🐍)
 
-Currently working at Centene Technologies (Centene Corp)
+Currently working at RedShelf (www.redshelf.com)
 
 [Stackoverflow](https://stackoverflow.com/users/6496590/cris-fugate)  
-[LinkedIn](https://www.linkedin.com/in/crisafugate)  
-[Springrole](https://springrole.com/crisafugate)  
+[LinkedIn](https://www.linkedin.com/in/crisafugate)   
 [Blog at Sigle](https://app.sigle.io/cafugate.id.blockstack)  
 [Github](https://github.com/crisafugate)  
 
