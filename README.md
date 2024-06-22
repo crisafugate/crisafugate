@@ -6,8 +6,8 @@ Currently working at RedShelf (www.redshelf.com)
 [LinkedIn](https://www.linkedin.com/in/crisafugate)  
 [Github](https://github.com/crisafugate)  
 
-Besides Python I have experience with API, Django ORM, Jython, Openpyxl, Pandas, S3, SQL/Mongo, Tkinter, UNIX, XML.  
-Interested in learning more data centered tools like PySpark.
+Besides Python I have experience with REST/SOAP API, Django ORM, Jython, Openpyxl, Pandas, S3, SQL/Mongo, Tkinter, UNIX, XML.  
+My concentration for my Master's degree was AI, but I was never impressed with ML or neural networks.
 <!--
 **crisafugate/crisafugate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
