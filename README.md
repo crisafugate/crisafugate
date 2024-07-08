@@ -1,10 +1,12 @@
 ### Cris A. Fugate (Python Developer 🐍)
 
-Currently working at RedShelf (www.redshelf.com)
+My previous job was at RedShelf (www.redshelf.com)
 
 [Stackoverflow](https://stackoverflow.com/users/6496590/cris-fugate)  
 [LinkedIn](https://www.linkedin.com/in/crisafugate)  
 [Github](https://github.com/crisafugate)  
+[LiveJournal](https://cafugate.livejournal.com)
+
 
 Besides Python I have experience with REST/SOAP API, Django ORM, Jython, Openpyxl, Pandas, S3, SQL/Mongo, Tkinter, UNIX, XML.  
 My concentration for my Master's degree was AI, but I was never impressed with ML or neural networks.
