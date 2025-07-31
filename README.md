@@ -10,8 +10,8 @@ I am searching for a new job, see my [Job Search Faq](https://gist.github.com/cr
 
 
 Besides Python I have experience with REST/SOAP API, Django ORM, Jython, Openpyxl, Pandas, S3, SQL/Mongo, Tkinter, UNIX, XML.  
-My concentration for my Master's degree was AI, but I was never impressed with ML or neural networks.
-Currently exploring data analytics with Python.
+<br>My concentration for my Master's degree was AI, but I was never impressed with ML or neural networks.
+<br>Currently exploring data analytics with Python.
 <!--
 **crisafugate/crisafugate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
