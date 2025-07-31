@@ -1,7 +1,8 @@
 ### Cris A. Fugate (Python Developer 🐍)
 
-[//](My previous job was at RedShelf (www.redshelf.com))<br>
-[//]<> I am searching for a new job, see my [Job Search Faq](https://gist.github.com/crisafugate/e7e1c6e54396c01b6d2d13206ca18dd5)
+<!-- My previous job was at RedShelf (www.redshelf.com))<br>
+I am searching for a new job, see my [Job Search Faq](https://gist.github.com/crisafugate/e7e1c6e54396c01b6d2d13206ca18dd5)
+-->
 I will be working soon as a Real Estate Tech Assistant. 
 
 [Stackoverflow](https://stackoverflow.com/users/6496590/cris-fugate)  
