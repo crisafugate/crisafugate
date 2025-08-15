@@ -8,7 +8,7 @@ I will be working soon as a Real Estate Tech Assistant.
 [Stackoverflow](https://stackoverflow.com/users/6496590/cris-fugate)  
 [LinkedIn](https://www.linkedin.com/in/crisafugate)  
 [Github](https://github.com/crisafugate)  
-[LiveJournal](https://cafugate.livejournal.com)
+[Github Blog](https://gist.github.com/crisafugate/deb321206fedb043b8907ab70b8a5f17)
 
 
 Besides Python I have experience with REST/SOAP API, Django ORM, Jython, Openpyxl, Pandas, S3, SQL/Mongo, Tkinter, UNIX, XML.  
