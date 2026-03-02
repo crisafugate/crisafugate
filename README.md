@@ -1,4 +1,4 @@
-### Cris A. Fugate (Python Developer, Programmer Analyst 🐍)
+### Cris A. Fugate (Python Developer, Backend and Data 🐍)
 
 My previous job was at RedShelf (www.redshelf.com), first as a Full Stack Data Engineer, then Full Stack Engineer.<br>
 In 2024 I couldn't find a job, so I tried freelancing for a year. That was not very successful.<br>
